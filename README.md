@@ -4,13 +4,13 @@ Hi 👋 My name is Murad Huseynov
 Java Backend Developer
 ----------------------
 
-* 🌍  I'm based in Frankfurt am Main, Germany
-* 🖥️  See my portfolio at [My Portfolio](http://deviofy.com)
-* ✉️  You can contact me at [muradace@gmail.com](mailto:muradace@gmail.com)
-* 🚀  I'm currently working on [Linguamat](http://linguamat.com) and [Eventeam](http://eventeam.az)
-* 🧠  I'm learning AI, Amazon WS
-* 🤝  I'm open to collaborating on creative people
-* ⚡  I'm secretly night owl, but do not tell others ;)
+* 🌍  Based in Frankfurt am Main, Germany
+* 🖥️  Check out my portfolio at My Portfolio
+* ✉️  Reach me at muradace@gmail.com
+* 🚀  Currently working on Linguamat and Eventeam
+* 🧠  Learning AI and Amazon Web Services
+* 🤝  Open to collaborating with creative minds
+* ⚡  Secretly a night owl, but shh... don't tell anyone 😉
 
 <a href="https://www.twitter.com/muradiodev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/muradiodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -34,10 +34,18 @@ src="https://img.shields.io/twitter/follow/muradiodev?logo=twitter&style=for-the
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://discord.com/users/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.facebook.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+<a href="https://www.youtube.com/c/muradiodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
@@ -51,4 +59,6 @@ src="https://img.shields.io/twitter/follow/muradiodev?logo=twitter&style=for-the
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/muradiodev/prethesis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muradiodev&repo=prethesis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/muradiodev/junit-test-example-by-me" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muradiodev&repo=junit-test-example-by-me&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/muradiodev/prethesis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muradiodev&repo=prethesis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/muradiodev/junit-test-example-by-me" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muradiodev&repo=junit-test-example-by-me&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color
