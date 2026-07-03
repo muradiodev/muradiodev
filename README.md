@@ -4,11 +4,10 @@ Hi 👋 My name is Murad Huseynov
 Java Backend Developer
 ----------------------
 
-* 🌍  Based in Frankfurt am Main, Germany
+* 🌍  Based in Berlin, Germany
 * 🖥️  Check out my portfolio at My Portfolio
 * ✉️  Reach me at muradace@gmail.com
 * 🚀  Currently working on Linguamat and Eventeam
-* 🧠  Learning AI and Amazon Web Services
 * 🤝  Open to collaborating with creative minds
 * ⚡  Secretly a night owl, but shh... don't tell anyone 😉
 
