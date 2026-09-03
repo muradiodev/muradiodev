@@ -1,15 +1,15 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e7490,50:0891b2,100:164e63&text=Murad%20Huseynov&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Berlin,%20Germany&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e7490,50:0891b2,100:164e63&text=Murad%20Huseynov&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20Ex-Founder%20%C2%B7%20Berlin,%20Germany&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=0891B2&center=true&vCenter=true&width=640&lines=14%2B+years+building+scalable+backends+%26+platforms;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Vue.js+%C2%B7+Microservices;Founder+%40+Hubpoint.Ai+%E2%80%94+AI+scheduling+for+SMBs;Shipping+AI-powered%2C+production-ready+systems" alt="typing intro" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=0891B2&center=true&vCenter=true&width=640&lines=14%2B+years+building+scalable+backends+%26+platforms;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Vue.js+%C2%B7+Microservices;Ex-Founder+%40+Hubpoint.Ai+%E2%80%94+AI+scheduling+for+SMBs;Shipping+AI-powered%2C+production-ready+systems" alt="typing intro" /></a>
 
 <br/>
 
 <a href="mailto:muradace@gmail.com"><img src="https://img.shields.io/badge/Email-muradace%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/muradiodev"><img src="https://img.shields.io/badge/LinkedIn-muradiodev-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn"/></a>
-<a href="https://hubpoint.ai"><img src="https://img.shields.io/badge/Hubpoint.Ai-Founder-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1c1917" alt="Hubpoint.Ai"/></a>
+<a href="https://hubpoint.ai"><img src="https://img.shields.io/badge/Hubpoint.Ai-Ex--Founder-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1c1917" alt="Hubpoint.Ai"/></a>
 <img src="https://komarev.com/ghpvc/?username=muradiodev&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
@@ -18,7 +18,7 @@
 
 ## ☕ About Me
 
-Senior Software Engineer and serial entrepreneur with **14+ years of experience** building scalable web platforms, backend systems, microservices, and AI-powered applications. I combine deep engineering skills with product thinking, technical leadership, and hands-on execution to deliver software that solves real business problems.
+Senior Software Engineer and ex-founder with **14+ years of experience** building scalable web platforms, backend systems, microservices, and AI-powered applications. I combine deep engineering skills with product thinking, technical leadership, and hands-on execution to deliver software that solves real business problems.
 
 ```java
 public final class Murad extends SeniorSoftwareEngineer {
@@ -27,7 +27,7 @@ public final class Murad extends SeniorSoftwareEngineer {
     private final int    experience = 14; // years and counting
 
     private final String currentFocus =
-        "Founder @ Hubpoint.Ai — AI-powered scheduling & business management for SMBs";
+        "Senior Software Engineer — backend, platform engineering & AI systems";
 
     private final String[] coreStack =
         { "Java", "Spring Boot", "Python", "Vue.js", "Microservices", "LLM/RAG" };
@@ -48,7 +48,7 @@ public final class Murad extends SeniorSoftwareEngineer {
 
 | | Role | What I did |
 |---|---|---|
-| 🚀 | **Founder — [Hubpoint.Ai](https://hubpoint.ai)** *(2025 – now)* | Took an AI scheduling & business-management platform for SMBs from concept to production across EU & MENA. Leading a 15-person team across Berlin and Dubai. AI voice/text scheduling, Stripe billing, multi-app platform on PHP API + Vue 3 + Python/MySQL AI service. |
+| 🚀 | **Founder — [Hubpoint.Ai](https://hubpoint.ai)** *(2025 – Jun 2026)* | Took an AI scheduling & business-management platform for SMBs from concept to production across EU & MENA. Led a 15-person team across Berlin and Dubai. AI voice/text scheduling, Stripe billing, multi-app platform on PHP API + Vue 3 + Python/MySQL AI service. |
 | 🧠 | **Tech Lead — Capgemini** *(2023 – 2025)* | Led end-to-end delivery of a GenAI knowledge-management platform: RAG architecture with local & cloud LLMs, vector search, Python/Flask API, Vue.js front end. |
 | 🏢 | **Senior Software Engineer — Axitera** *(2022 – 2023)* | Shipped Obolus, a cloud HR workforce-management product: microservices, time tracking, expense management, reporting. |
 | 🚆 | **Software Engineer — Hacon (Siemens)** *(2022)* | Public-transport routing systems handling **100M+ door-to-door route calculations per day**; supported Germany's 9-Euro-Ticket rollout. |
