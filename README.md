@@ -49,7 +49,6 @@ public final class Murad extends SeniorSoftwareEngineer {
 | | Role | What I did |
 |---|---|---|
 | 🚀 | **Founder — [Hubpoint.Ai](https://hubpoint.ai)** *(Jan 2025 – Jul 2026)* | Founded and built an AI scheduling and business-management SaaS platform from Berlin, owning architecture, product delivery, AI agents, integrations, infrastructure, and a technical team. |
-| 🧠 | **Startup Alumni — Accelerator Frankfurt GmbH** *(Oct 2025 – Dec 2025)* | Developed Hubpoint.Ai through a startup accelerator, strengthening SaaS product, team-management, and delivery capabilities. |
 | 🏢 | **Senior Software Engineer — Capgemini** *(Nov 2023 – Dec 2025)* | Led end-to-end delivery of a GenAI knowledge-management platform with RAG architecture, local and cloud LLMs, vector search, Java/Python services, and Vue.js. |
 | 🏢 | **Software Engineer — Axitera GmbH** *(Nov 2022 – Nov 2023)* | Shipped Obolus, a cloud workforce-management product covering time tracking, benefits, travel expenses, microservices, and reporting. |
 | 💻 | **Information Technology Officer — Eventeam** *(Aug 2021 – Nov 2023)* | Supported technology operations, Linux environments, Git workflows, and software delivery activities. |
