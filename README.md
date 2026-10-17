@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0e7490,50:0891b2,100:164e63&text=Murad%20Huseynov&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20Tech%20Lead%20%C2%B7%20AI%20Engineer%20%C2%B7%20Berlin,%20Germany&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=0891B2&center=true&vCenter=true&width=640&lines=14%2B+years+building+scalable+backends+%26+platforms;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Vue.js+%C2%B7+Microservices;Ex-Founder+%40+Hubpoint.Ai+%E2%80%94+AI+scheduling+for+SMBs;Shipping+AI-powered%2C+production-ready+systems" alt="typing intro" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=0891B2&center=true&vCenter=true&width=640&lines=Now+building+Murmur%3A+local%2C+bot-free+meeting+AI;14%2B+years+building+scalable+backends+%26+platforms;Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+Vue.js+%C2%B7+Microservices;Ex-Founder+%40+Hubpoint.Ai+%E2%80%94+AI+scheduling+for+SMBs;Shipping+AI-powered%2C+production-ready+systems" alt="typing intro" /></a>
 
 <br/>
 
@@ -13,6 +13,36 @@
 <img src="https://komarev.com/ghpvc/?username=muradiodev&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
+
+<!-- ======================= FEATURED ======================= -->
+
+## 🎧 Featured Project: Murmur
+
+<table>
+<tr>
+<td width="46%" valign="middle">
+<a href="https://github.com/muradiodev/murmur-notetaker-copilot"><img src="assets/murmur-card.png" alt="Murmur: no bot in the call, no audio leaves your laptop" width="100%"/></a>
+</td>
+<td width="54%" valign="top">
+
+### [murmur-notetaker-copilot](https://github.com/muradiodev/murmur-notetaker-copilot)
+
+A **local, bot‑free meeting notetaker and live interview copilot** for Windows. It records your mic and system audio, transcribes and separates speakers **on your own GPU**, then writes the notes, or drafts your answer live while the question is being asked.
+
+- 🤫 **No bot in the call:** works with Zoom, Teams, Meet or any tab
+- 🔒 **Audio stays local:** Whisper, diarization, VAD and echo cancellation on device
+- ⚡ **~1–2 s** to the first words of a live Copilot answer
+- 🔑 **Your AI, your key:** Claude, OpenAI or NVIDIA, text only
+
+<a href="https://github.com/muradiodev/murmur-notetaker-copilot"><img src="https://img.shields.io/badge/View%20on%20GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+<a href="https://github.com/muradiodev/murmur-notetaker-copilot/stargazers"><img src="https://img.shields.io/github/stars/muradiodev/murmur-notetaker-copilot?style=for-the-badge&color=1c1917&labelColor=1c1917&logo=github" alt="Stars"/></a>
+<img src="https://img.shields.io/badge/License-MIT-1c1917?style=for-the-badge" alt="MIT"/>
+
+<sub>Python · FastAPI · faster‑whisper · sherpa‑onnx · Silero VAD · DTLN‑aec · WebSocket</sub>
+
+</td>
+</tr>
+</table>
 
 <!-- ======================= ABOUT ======================= -->
 
@@ -28,6 +58,8 @@ public final class Murad extends SeniorSoftwareEngineer {
 
     private final String currentFocus =
         "Senior Software Engineer — backend, platform engineering, tech leadership & AI systems";
+
+    private final String sideProject = "Murmur — open-source, local meeting notetaker & interview copilot";
 
     private final String[] coreStack =
         { "Java", "Spring Boot", "Python", "Vue.js", "Microservices", "LLM/RAG" };
@@ -58,6 +90,18 @@ public final class Murad extends SeniorSoftwareEngineer {
 | ☕ | **Java Software Engineer — ITM Tor** *(Jan 2016 – Aug 2017)* | Maintained backend services and built Java web projects with JSP, Servlets, Struts, Hibernate, SQL, reporting, and testing. |
 | 📊 | **Java Web Engineer — State Statistical Committee of Azerbaijan** *(Apr 2015 – Dec 2015)* | Developed government statistical web systems and Java/SQL exports for PDF, XLS, and web views. |
 | 📊 | **Java Software Engineer — State Statistical Committee of Azerbaijan** *(Aug 2014 – Mar 2015)* | Wrote and supported government software projects as a Java engineer. |
+
+<!-- ======================= PROJECTS ======================= -->
+
+## 🧪 Open-Source Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| ⭐ **[murmur-notetaker-copilot](https://github.com/muradiodev/murmur-notetaker-copilot)** | Local, bot‑free meeting notetaker and live interview copilot; on‑device transcription, diarization and echo cancellation | Python · FastAPI · Whisper · ONNX |
+| **[rag-test](https://github.com/muradiodev/rag-test)** | Transparent RAG demo with document ingestion, vector retrieval, cited answers and a retrieval debugger | Python · TypeScript |
+| **[hubotion](https://github.com/muradiodev/hubotion)** | Notion‑style workspace with rich documents, backend authentication and knowledge import | TypeScript · Docker |
+| **[lead-gen-by-murad-public](https://github.com/muradiodev/lead-gen-by-murad-public)** | Lead generation and CRM app with Google Maps scraping, Apify integration and lead management | Python · JavaScript |
+| **[reddit-telegram-alerts](https://github.com/muradiodev/reddit-telegram-alerts)** | Reddit RSS keyword monitoring with Telegram alerts and optional Discord delivery | Python · Docker |
 
 <!-- ======================= TECH STACK ======================= -->
 
